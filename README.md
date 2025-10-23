@@ -17,3 +17,7 @@ https://www.kaggle.com/datasets/architgoel29/blinkit-dashboard
 -Made sure data is consistent and clean with respect to data type,data format and values used.
 -Created pivot tables according to the question asked.
 -Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+## Dashboard
+![Blinkit analysis](https://github.com/user-attachments/assets/3c71d678-adea-425d-8a0e-3e2e96cf8584)
+
