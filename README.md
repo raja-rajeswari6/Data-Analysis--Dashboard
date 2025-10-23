@@ -21,3 +21,6 @@ https://www.kaggle.com/datasets/architgoel29/blinkit-dashboard
 ## Dashboard
 ![Blinkit analysis](https://github.com/user-attachments/assets/3c71d678-adea-425d-8a0e-3e2e96cf8584)
 
+# Final Conclusion:
+To improve the sales of blinkit store, a strrategic marketing plan focued on establishent outlet from 2010 to 2022.Sales peaked around 2020 at $205k ,showing strong growth before stabilizing at around $130k in later years.Improving customer rating through quality or service upgrades.
+
